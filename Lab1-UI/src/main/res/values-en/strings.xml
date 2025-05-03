@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Labs20251-Gr07</string>
+    <!-- Personal Data -->
+    <string name="personal_data_title">Personal Information</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="education_level">Education Level</string>
+
+    <!-- Contact Data -->
+    <string name="contact_data_title">Contact Information</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+
+    <!-- Buttons -->
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+
+</resources>
+

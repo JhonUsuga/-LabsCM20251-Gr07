@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Labs20251-Gr07</string>
+
+    <!-- Personal Data -->
+    <string name="personal_data_title">Información Personal</string>
+    <string name="first_name">Nombres</string>
+    <string name="last_name">Apellidos</string>
+    <string name="gender">Sexo</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+    <string name="birth_date">Fecha de nacimiento</string>
+    <string name="education_level">Grado de escolaridad</string>
+
+    <!-- Contact Data -->
+    <string name="contact_data_title">Información de Contacto</string>
+    <string name="phone">Teléfono</string>
+    <string name="address">Dirección</string>
+    <string name="email">Email</string>
+    <string name="country">País</string>
+    <string name="city">Ciudad</string>
+
+    <!-- Buttons -->
+    <string name="next">Siguiente</string>
+    <string name="submit">Enviar</string>
+
 </resources>
+
