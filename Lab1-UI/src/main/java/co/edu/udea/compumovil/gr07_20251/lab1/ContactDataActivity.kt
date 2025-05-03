@@ -59,6 +59,8 @@ fun ContactDataScreen() {
         "Bucaramanga", "Pereira", "Manizales", "Cúcuta", "Ibagué"
     )
 
+
+
     Column(
         modifier = Modifier
             .fillMaxSize()
